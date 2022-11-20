@@ -1,0 +1,53 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    body{
+        margin: 0px;
+        padding: 0px;
+
+    }
+
+
+    .webn{
+        font-size: 1.5rem;
+    }
+
+    .mobpic img{
+        width:120px;
+    }
+
+    #search{
+    
+        margin:08px;
+        flex-direction: column;
+        flex-wrap: wrap;
+        border-radius: 1000px;
+        font-size: 1rem;
+        padding:8px;
+        width:180px;
+        height: 35px;
+        border: 1px solid black;
+    }
+
+    table{
+        border: none;
+        
+    }
+
+    .mobpic{
+        background-color:#F7F7F7; 
+        font-size: medium;
+    }
+
+    .name{
+        color: #1ba2f0;
+        padding:px;
+        font-size: 1rem;
+    }
+
+   
+
+
+    
+
+}
+
